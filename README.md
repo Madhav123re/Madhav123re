@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Madhav123re
 - 👀 I’m interested in Talent Acquisition
-- 🌱 I’m currently  Hiring bigdata developers
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently  Hiring bigdata developers AND Spark AND Scala AND Hive
+- 💞️ I’m looking to collaborate on who are looking for an opportunities
 - 📫 How to reach me ... +91 9880778486
 
 <!---
